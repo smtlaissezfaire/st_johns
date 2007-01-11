@@ -1,0 +1,52 @@
+
+Scott Taylor
+Ms. Paalman
+Laboratory Tutorial
+4 December 2006
+
+
+Uncertainty and Reality
+
+Certainty in Classical Physics
+
+At a certain time, and for a certain reason, there occurred a shift in how science took place.  The goal of science has always been to describe what is, but after the shift, another goal was taken on: predictability.  For some odd reason, the physicist believe that if they could predict with exact probability what a thing will be, that is, its mode of existence in the future, they believed that the knowledge of their subject was complete.  Whether or not such a method of describing things was the best or most comprehensive method, it was at least able to describe these things with a consistency.  All things have mass, volume, position, and motion.  The ability to predict with certainty is the ability to say what these things will be in the future based on knowledge of what they are now, or have been in the past.  Hence a theory in physics is some necessary relation of these fundamental concepts of space (mass, volume, position) and time, motion or velocity being considered the compound of these two.
+
+But how does one form a theory?   From experiment or previously accepted theory.  Science is in a constant cycle between these two.  Obviously, science started at some point with observation, and reasons for the observation were given.  New observations which either the theory could not explain or contradicted the theory.  This lead to yet more theory.  Hence, how the fundamental concepts of space and time actually interacted for a given thing would change over time.
+
+This back and forth which has gone on in physics would suggest that one could never come to certain conclusions unless they could observe all possible phenomena.  One must remember that the goal of physics is to do exactly this, and to do so with certainty, i.e., to show that there could be no other possibilities.
+
+Since it seems unlikely that anyone will ever observe all possible phenomena, it would be satisfying if we could establish a method of certainty which was separate from phenomena altogether.  One such method is Immanuel Kant's, and by extension, Newton's.  Kant argued that one could only observe certain classes of phenomena because one is conditioned from the start to observe phenomena is that way.  Under this interpretation of physics, certainty is possible because our method of spacio-temporal reasoning is one of examining how our own mind must think about these things.  No statements are actually made about how objects are actually existing, only statements about how objects must appear to be existing.
+
+But this seems to leave no room for experiment.  So then, what use is it?   Since there have been theories with contradictory observations, we use experiments to confirm our theories, albeit without certainty.
+
+The burden of explaining such a source of error of course lies on Kant's shoulders, so I will not do it here.  But it should be noted that Kant bases all possible perceptions on a priori spacio-temporal intuitions, which is what eventually leads to certainty.
+
+
+Uncertainty in Quantum Mechanics
+
+Heisenberg's indeterminacy equation states that if one knows exactly the position or velocity of a particle, then the other must be completely indeterminant within the range of Plank's constant.  This is not the first time in physics that a range of values has been found.  Every experiment that has ever been performed is subject to the limitations of our instruments and ability to create ideal situations.  No one has ever measured the gravitational pull between two objects existing in an absolute vacuum.  The tendency exists to explain away those things which seem to be variable or do not make sense of our theories, for instance, wind resistance.
+
+What makes Heisenberg's uncertainty principle completely different from every other example in physics, is that his claim is that no experiment could ever show position and velocity more accurately than Plank's constant.  In the case of wind resistance, we can create a vacuum with less matter in it than any amount desired.  This is the same method of applying the calculus to physical experiments.  What is the velocity of the body?  Given a time increment, it is always possible to find a smaller one, hence a velocity more accurate than any given amount.
+
+Heisenberg caries out a thought-experiment and several modifications to show that no possible experiment could subvert the uncertainty principle.  In Heisenberg's experiment, one views an electron through a microscopic lens. This experiment is clearly absurd in a number of ways, but most obviously because any photon shot at the system is going to disturb the viewing of the system.  But the meat of the proof, which I believe is tacitly stated, is that any modification to the system, whether using photons or not, will become part of the system, and hence effect it.
+
+In a way, the fact that reality would be interconnected should not be so surprising.  If everything is made up of the same fundamental particle, and every particle changes the position or velocity of any other particle, it is clear that any measuring device introduced into the system must affect the system, since all measuring devises are made up of these fundamental particles themselves.  
+
+But whether or not the thought-experiment makes intuitive and clear the fact that physics must be complete, that is, that no experiment can get around Heisenberg's uncertainty principle, I believe that Heisenberg does not rest his burden of proof on the thought-experiment itself, but on the derivation from Schrondinger's equations.  This leads him to say:
+
+"The indeterminacy relations ... specify the limits within which the concepts of the particle theory can be applied.  Any use of the words 'position' or 'velocity' with an exactness exceeding that indicated by [the uncertainty principle] is just as empty of content as the use of words whose sense has not been defined."
+
+
+Is Knowledge Possible?
+
+Heisenberg's conclusion from the uncertainty principle is that although we can not know some thing about the present or future, we can at least know something about the past, since before any measurement takes place, the velocity and position can be known with greater certainty than Plank's constant.  But Heisenberg says that this knowledge is of a "purely speculative character."  He states this for two reasons.  First, it will never be possible to take this knowledge of the past and apply it to a future event or to the present one, and secondly, the electron can never be exactly measured.
+
+The first reason is a problem for science, because the whole method of science is to say what a thing is by what it will be, or, formulated in another way, what a thing is by the possible conditions of its existence.  The second reason, though, is quite possibly a more extensive claim: that one can never verify this principle through experience.  Thus, Heisenberg says, "It is a pure matter of taste whether or not one is to ascribe to such a calculation concerning the past of the electron any physical reality."  So, if the velocity of an electron is known, it is either in several different places at once, or, it we simply cannot know where it is. 
+
+Now, getting back to Kant, what Heisenberg has just said must really have him rolling over in his grave (as so many other scientific discoveries since his time), since a large portion of the Critique of Pure Reason is an explanation of why we must view space and time as we normally do.  But, in another way, this must ultimately please Kant, since even though space and time may not be as simple as he thought they were, one can still say that what our mind prescribes to objects a priori cannot be gotten around by physical observations.  Our mind has prescribed to us a rule of the limits of observation, which come from certain mathematical equations, and no observation will ever be able to surpass these limits.
+
+The conclusion that must be made from Heisenberg's remarks is that a determination of a past event is real, even if only in our minds.  It is true that it is merely a matter of taste whether one ascribes a physical existence to these things.  But this idea is not a new one in philosophy - Immanuel Kant, in fact, proposed this very idea in response to the skeptics.  Hume argued that we can never know the causality of physical things with certainty, and Kant agreed with him by stating that we can never know the modes of existence of a thing in-itself.  
+
+What state does this leave us in?  We must look to philosophy for the determination of 'what is real', or as Bohr put it:
+
+"Quite a few abstractions which are characteristic of modern theoretical physics will be found to have been already discussed in the philosophy of past centuries.  While these abstractions could in the past be rejected as thought play by the natural scientist intent only on realities, the more refined experimental art of modern physics now forces us to discuss them thoroughly."

@@ -1,0 +1,101 @@
+
+premiss - sentence afirming or denying one thing or another
+
+syllogism:
+	based on:
+		demonstrative premiss - assertion of one of two contradictory statements (the demonstrator does not ask for his premiss, but lays it down)
+			dialectical premiss depends on the adversary's choice between two contradictories.  
+			But neither of these will affect the production of a sullogism in either case
+
+			syllogistical premiss - affirmation or denial of something concerning something else in the way we have describe; it will be demonstrative, if it is true and obtained through the first principles of its science; while a dialectical premiss is the giving of a choice between two contradictiories, when a man is proceeding by question, but when he is syllogizing it is the assertion of that which is apparent and generally admitted
+
+			a syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.  I mean by the last phrase that they produce the consequence, and by this, that no further term is required from without in order to make the consequence necessary.  
+
+perfect syllogism - needs nothing other than what has been stated to make plain what necessarily follows; 
+imperfect - if it needs either one or more propositions, which are indeed the necessary consequences of the terms set down, but have not been expressly stated as premisses
+
+			syllogism should be discussed before demonstration, because syllogism is the more general: the demonstration is a sort of syllogism, but not every syllogism is a demonstration.
+
+				maj & minor, middle term
+
+now bottom:
+
+
+Whenever three terms are so related to one another that the last is contained in the middle as in a whole, and middle is either contained in, or excluded from, the first as in or from a whole, the extremes must be related by a perfect syllogism.  I call the middle which is itself contained in another and contains another in itself: in positions also this comes in the middle
+If A is predicated of all B, and B of all C, A must be predicated of all C.  Similarly, if A is predicated of no B, and B of all C, it is necessary thsat no C will be A.
+
+But if the first term belongs to all the middle, but the middle to none of the last term, there will be no syllogism in respect of the extremes; for nothing necessary follows from the terms being so related...But if there is no neesasry consequence, there cannot be a syllogism by means of these premisses.
+
+Nor again can a syllogism be formed when neither the first term belongs to ny of the middle, nor the middle to any of the last
+
+But if one term is related universally, the other in part only, to its subject, there must be a perfect syllogism whenever universality is posited with reference to the major term either affirmatively or negatively, and particularity with reference to the minor term affirmatively: but whenever the universality is posited in relation to the minor term, or the terms are related in any other way, a syllogism is impossible.  
+
+I call that term the major in which the middle is contained and that term the minor which comes under the middle.
+
+But if the universality is posited with respect to the minor term either affirmatively or negatively, a syllogism will not be possible.
+
+Nor when the major premiss is universal, wheter affirmative or negative, and the minor premiss is negative and particular, can there be a syllogism
+
+Nor can there in any way be a syllogism if both the relations of subject and predicae are particular, either positively or negatively, or the one negative and the other affirmative, or one indefinite and the other definite, or both indefinite.
+
+
+bottom:
+
+
+
+
+
+
+
+how does the syllogism function? 
+	on our idea of causality & classes
+		we abstract, and then think that these abstractions determine what the thing is (cause).  But it is the other way around - things first are, then we abstract
+	classes are just composed of what is a common attributein their members
+	we exist, then we find atributes.  but how do we know that these attributes are exaustive?  how do we know that all men are mortal? - major logic, not minor logic
+
+
+maybe classes where a particular is contained don't express reality fully (this is how the syllogism works - on this concept of eveything being contained in classes, and this is the point that neitzsche made: that any time you deny the particulars of a thing you deny a big part of the reality.  socrates was not just a man.  
+
+but a greater point is that language is not intersted in truth, for it does not express the thing-in-itself, only its relation to man.  "when we speak of trees, colors, snow, and flowers, we believe we know something about the things themselves, although what we have are just metaphors of things [syllogisms], which do not correspond at all to the oiriginal entities."  
+
+nothing in reality emits to truth or false hood - everything just is.  It is us who think things are false.  For instance, the tree is green.  But to make a truely objective statement, one would have to jump out of themselves - out of their skin, not only of the I but the I of humanity, of humanities perception.  The only thing that can be agreed on is "the tree appears (or is) green to me, in my being
+
+
+
+"within this dice game of concepts, however, "truth" means: to use each die as designated, count its spots accurately, forming the correct labels, and never violating the caste system and sequence of rank classifications." - hence our minor logic is just using the rules as we are given them.  But what is the value of minor logic in itself?  No value, unless expressing some truth which could be translated into major logic, into action, into life.  And how did we get these rules for minor logic?  From our reasoning, what seems true to us.  The logic came first, then the rules, not the other way around, just as melody comes before rules about melody.
+
+
+minor/major logic
+
+slipping into major logic, but why should we use logic, why are we persuaded to think that it corresponds to the outside world?
+is this to say that syllogism is the only type of logic we use?  And is it the only way we think?  Or is it only the only way of thinking which uses rationality i.e. not intuition? Maybe even intuition works as an imperfect syllogism does?
+
+question of logic:
+	even imagination, which deals with images works on an imperfect syllogism, with the perfect syllogism out of the conscious mind.
+the best mode of thinking?
+	for plotinus, all words & logic (whether separated as we do or together as logos) were misrepresenting reality, being only shadows of the truth since they involved combination and separation, as aristotle says
+	and for dante, reason was done away with comprehending god
+
+augustine's discussion of time, and "on interpretation": nothing true or false is stated without a verb & subject, yet verb conveys time.  
+mystic states of augustine, plotinus, and dante
+metaphore, analogy & classes
+
+division into opposites - ability of reason
+maybe we can only understand mystic states by being first able to reason - 
+maybe division is how our brain functions, hence on analogy & syllogism
+
+And when we say "something implies something else" what do we mean?  That it must follow.  But in what way?  This works very well for the dialectic, but as for something like physics or human affairs it doesn't seem to work at all.  Maybe we don't have a grasp on the principles because they are not as easily seen as in something theoretical like mathematics.  You do this, and that will happen.  But not always.  How are we to conclude the syllogism works in every day life? We can use it to deduce that this thing in front of me is a chair, but how can we use it practically to deduce what should be done?  The syllogism hence cannot be the only way to think, and certainly doesn't work very well when concerned with action.  It is relegated to the realm of theory, of logos.  
+And do we assume that the dialect is something based on reality, i.e. which we sense, or is it a separate world?  If it is based on this world, maybe the dialect is not the best way to understand reality, for the syllogism doesn't really seem to work in terms of action, only in identifying things.  Aristotle says: spoken words are the symbols of mental experience and written words are the symbols of spoken words...so all men have not the same speech sounds, but the mental experiences, which these directly symbolize, are the same for all, as also are those things of which our experiences are the images.
+
+The problem is this - we can only express things in terms of how they relate to us because we only know about what we are ourselves, and even that is questionable and uncertain.
+
+
+ 		
+
+all men are mortal
+socrates is a man
+therefore socrates is mortal
+
+mortal
+man
+socrates

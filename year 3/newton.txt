@@ -1,0 +1,79 @@
+
+In ancient times, the study of the planatary motions was much more than study of physics as it is called today.  This idea that the earth was at the center of the universe was not some hard headed idea as it is today portrayed.  When we observe motion of the planets, we see the unmoving circular body, the earth, and the other planets revolving around us.  But it was not for this reason that the ancients placed the earth at the center.  Instead they did this because they realized our corrupible nature and God's perfect nature.  What we see around us is always changing.  It would be hard, if not impossible, to attribute anything certain to these things.  But the planetary motions, on the other hand, are fixed and act according to a certain regularity.  And even greater are the stars, which are fixed and completely unmoving.  It seems clear that what is ungodly, the changeable and irregular falls to the center of the universe.
+
+Hence Ptolemy created the divisions between Theology, Mathematics, and Physics.  And this was the division between the fixed stars, the planets, and what was at the center of the univsere: man, or more generally, corruptable bodies.  Ptolemy states at the beginning of the Almagest that our study of heavenly bodies should consist only in mathematics.  Theology and Physics are just guesswork; the one because it is beyond our grasp (to study this is to ask the question of what caused the first principles or the prime mover to act), the other because there is nothing fixed about earthly matter at all.  To study the right action of man, we must study the divine.  Since we cannot study God as he is, we must study mathematics, which is of both the visible and changing and the invisibile and unchanging.   
+
+But it seems unclear how such a study of Astronomy, or even of pure mathematics will actually progress Theology and rightly temper man's actions.  It is true that such a study will develop our rational capacity and provide keen detection of sophostry.  But after studying Ptolemy for over a year, does one feel a moral imperative to act rightly?  
+
+If rightly directing man's actions is the aim of the Almagest, it is at best unclear how the purpose is acheived through the study.  How would calculating planetary motions rightly direct our actions?  Some may say that although Ptolemy was not trying to physically describe the motions of the heavens, he was trying to save the phonemena, i.e. showing the probability of the ancient system with regrads to perceptions of planetary motions.
+
+The gap between Physics and Theology is bridged by Mathematics.   One may pose the question: "How does Mathematics deal with both the changing and the unchaning, the visible and the invisibile?"  When studying Euclid, we say that objects are in our mind as perfect entities.  When we then try to represent them as physical entities, they must be imperfect representations of these things.  But we say that we derive these physical objects from the pure Ideas.  These Ideas are in the mind before they receive some physicality.  We must demand from Ptolemy how exactly matematics is both seen and unseen, certain and yet physical, and once asking this question, following it by asking, why does Astronomy properly fit in under this branch of philosophy?
+
+It is a serious question, and one that still needs to be resolved, of how exactly the physical relates to the theoretical.  Ptolemy, out of necessity, put Astronomy under the branch of philosophy which was absurdly both certain and uncertain, theoretical and yet physical.  We must now examine how, and if, Newton has reconciled the physical with the theoretical.
+
+Finally on to Newton...
+We are certain of the ideas which proceed from right reasoning if we are certain of the principles in any system.  Newton has endevored to make us certain of the actions of force, in a purely theoretical way, dealing with nothing but matematical models.  It is for this reason that he based his propositions on the foundations of geometry, and established by proof the infinitesimals instead of using indivisibles.
+
+Newton acknowledges that the "basic problem of philosophy seems to be to discover the forces of nature from the phenomena of motions and then to demonstrate the other phenomena from these forces."  His claim is that this is the purpose of the first two books.  But the introduction of mass, or quantity of matter, in the first book must be questioned.  How is mass a theoretical thing?  How can we reason on it without descending to the level of sense perception?  Unfortunately, the author gives us no answer to such a question.
+
+Newton also claims that the "motions of the planets, the comets, the moon, and the sea are deduced from these forces by propositions which are also matematical."  In Book 3, Proposition 13, he has further claimed that the celestial mostions can be deduced a priori from the celestial motions.  
+
+Imannual Kant has made the distinction between a pure and and a priori prosition.  A man who can tell that his house is going to fall before it has fallen is said to have determined this a priori.  But yet he has relied on some a posteriori knowledge, namely the empirical knowledge of bodies being heavy.  Although such an inquiry is out of the domain of this paper, we must left to wonder how such an a priori, and not a pure, proposition can be considered certain.
+
+It appears that Newton has gone to great length to assure us of the mathematics of such a system, and one must assume that this is to that is to assure us of the certainty of the system.  But if we are unsure as to how exactly such a system is certain, that is, both abiding by the regularity of the theoretical, and yet having a physical existance, the same problem arises that has arisen with the uncertainty of exactly was is occuring in the realm of mathematics for the Ptolemic system.
+
+One could level the same claim on the division of absolute time and space as as one has laid on mass and demonstrating the necessary connections among physical objects which are a priori: namely, that it is based on uncertain foundations.  If there is such a necessary connection, we do not yet hold the knowledge for it.  But on this, more hereafter.  Further, we must acknowledge that the greatest uncertainty of all and possibly the source of all uncertainty proceeds from that first principle of which Newton claims that he will "feign no hypotheses."  
+
+
+Newton's Divisions
+
+Newton believes that force is something akin to God, i.e. only known by final causes.  To speak of such things is only to engage in guesswork, just as Theology was for Ptolemy.  Likewise, Newton claims that we do not understand substance, but have only shape, color, sound, smells, etc. of external bodies.  And Ptolemy has laid down a similar distinction in the guesswork of physics.  But a fuller inquiry in to exactly how these distinctions are contrasted must be done later.  Assuming that the distinctions are similar, it appears that Newton has made the same divisions that Ptolemy has, and that he has confined Astronomy to some mysteriously 'certain' realm which is named 'mathematics.' 
+
+But one can obtain the idea from several of Newton's comments that the foundation of astronomy is based on sense perception.  One such example is his foundation of geometry on mechanics.  "Geometry is founded on mechanical practice and is nothing other than that part of universal mechanics which reduces the art of measuring to exact proportions."  It is true that he makes a division between rational mechanics and practical mechanics.  But this division does not appear to be one of kind, but one of degree, as he has said "Anyone who works with less exactness is a more imperfect mechanic, and if anyone could work with the greatest exactness he would be the most perfect mechanic at all."  Since rational mechanics is the foundation of geometry, it appears that geometry has lost its absolute certainty if we consider its foundations.
+
+Likewise, to solve the problem of relative motion, Newton has defined absolute motion, time, space, and place.  "Absolute...time, in and of itself and of its own nature, without references to anything external, flows uniformily." "Absolute space, of its own nature without reference to anything external, always remanes homogenous and immovable."  "Place is the part of space that a body occupies, and it is depending on the space, either absolute or relative."  "Absolute motion is the change of position of a body from one absolute place to another."  It was necessary to do such a thing, because otherwise motion could only be relative.  From this, one could only draw relative laws which do not describe real forces.  
+
+But with absolute space and motion, how does Newton prove with any certainty that the bodies in the heavens obey fixed and absolute laws?  I believe his spinning bucket is a supposed account of a physical body moving by absolute motion.  "The effects distinguishing absolute motion from relative motion are the forces of receding from the axis of circular motion...From such an endevour [the rise of the water] one can find out and measure the true and absolute circular motion of the water."  But Newton does not say how exactly how one could go about calculating the true and absolute motion of this water.  Further, "that endevour does not depend on the change of position of the water with respect to surrounding bodies."  What are the surrounding bodies spoken of here?  Is it only the motion of the water and the bucket?  If that is so, how are we to know that we are absolutely at rest, since absolute motion "cannot be determined by means of change of position from the vicinity of bodies that regarded as being at rest."  
+
+Certainty of the Physical
+
+why is newton so concerned with the physical?  why doesn't he feign hypotheses? isn't the book based on a hypotheses, that force exists?  or is he only speaking of metaphysical hypotheses?  why is certainty such an issue for him?  if all certainty is based on the certainty of expeerience (i.e. mechanics), why can't he speak of certainty of force?  or is it just out of our realm?  why is he so concerned with setting up a theoretical system?  why is certainty such an issue where it wasn't for Ptolemy?  Or was it for Ptolemy?  Was the purpose of his book the same as for Newton?  Was it to establish the regularity of the theoretical, and then predict phenomena from it?  Or to show that the bodies actually existed in some regularity, even if our observation is slightly off?  or is the purpose of these books to show the necessity of god if such regular motions are to occur in the heavens?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Once again, the purely theoretical is at odds with the physical, just as it was for Ptolemy.  Ptolemy had to confine astronomy to his realm of mathematics, and because of relative motion, Newton must do the same.  How are we supposed to determine the true forces of motions from our perception of these forces, that is, relative motion?  To solve this problem, Newton defines absolute and relative space, time, motion, and place.  Likewise, he makes a division between the first two books, which seem to be purely theoretical, while the third book is deducing the phenomena from the certain principles established in the former.
+
+For Newton, absolute motion is determined by the forces impressed on a body.  Any other motion is relative motion.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ptolemy nonsense to add later:
+
+
+Is Ptolemy to have us understand the heavenly realm in the same way?  Is the idea of God in our mind before any experience of the heavens (i.e. an a priori concept)?
+

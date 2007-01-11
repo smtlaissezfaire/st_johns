@@ -1,0 +1,20 @@
+
+Scott Taylor
+Senior Laboratory
+October 16, 2006
+
+Balmer Series for Hydrogen
+
+Introduction
+
+Using a spectrometer and a diffraction grating, I measured the angles of the visible emitted light from a mass of hydrogen.  With these angles I was able to find an associated wavelength to each ray.  Finally, this allowed the approximation of Rydberg's constant.
+
+Data
+
+See Attached
+
+Discussion
+
+Since my numbers seem to be quite a bit off, I assume I did not take measurements as precisely as I should have.  The other possible source of error was in finding the "n" value.  I do not know how one is supposed to know which line one is seeing.  Since I am unaware of how one finds this except experimentally, I have used the table given by the manual.
+
+Ultimately, although I do not believe that the laboratory is an aid to understanding the deeper philosophical implications of a physics theory, I do value these labs quite a bit.  It is always helpful for me to be "close" to an experiment  to see it with my own eyes and be able to alter it at will.  This lab was especially helpful because it gave a method to finding Rydberg's constant from the empirical observation of the light emitted from hydrogen.

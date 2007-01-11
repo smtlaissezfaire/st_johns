@@ -1,0 +1,131 @@
+Scott Taylor
+Mr. Lassell
+Preceptorial
+2006.12.14
+
+CONVERT FOOTNOTES
+DOUBLE SPACE
+WATCH OUT FOR ANY UNDERLINES
+HIGHLIGHT/ITALICIZE
+PUT FOOTER PAGE #'S
+
+
+
+Musings on Analysis and Synthesis
+ 
+What does one mean when one says the words “synthesis” and “analysis”?  To many these words signify nothing but different, inherently uninteresting methods to pursue the proof of a mathematical theorem.  But as we shall see later, these two different methods may hold the key to discovering the most important mathematical and philosophical truths.
+
+Kant defines the distinction between the two as follows: “Either the predicate B belongs to the subject A as something which is (covertly) contained in the concept…or B lies outside the concept A.  In the one case I entitle the judgment analytic, in the other synthetic.  Analytic judgments are therefore those in which the connection of the predicate with the subject is thought through identity.”
+
+This definition seems to be in accord with Leibniz’s.  (FOOTNOTE).  In his doctoral thesis, the same one in which he defined analysis, it is not surprising that a definition for synthesis is absent.  A fundamental disagreement between Leibniz and Kant hinges on the role of analysis in mathematics. 
+
+Kant’s claim is that synthesis is what drives mathematics.  Leibniz, on the other hand would claim that the whole of science is based on the opposite of it, i.e., analysis. 
+
+To claim that all mathematics is analysis of concepts leads one to the thought that all connections are either based on definitions or on self identities.  This was very central to Leibniz, not just for its utility, but also for its certainty, which is the pride of mathematical domain.
+
+Kant went through great lengths to assure his readers that certainty did come from intuitions.  Leibniz has apparently done away with this problem through definitions and self-identical truths.  
+
+In a way, Leibniz is an extension of Descartes, an uber-Descartes, if you will.  Descartes was more obsessed with certainty than Leibniz was, but Leibniz perceived that all mathematical truths must be reducible to that which is most certain of all, that a thing is equal to itself.  Once again, the great pains of Kant are to assure us of Euclid's axioms, which very few doubt.  But Leibniz wanted to go beyond this.  The only ones who doubt Euclid are the skeptics.  
+
+Observe his casual denial of non-skeptics in mathematics:  "There are those who think that these first truths are known through themselves, by means of I know not what natural light...Men have no criterion to decide what is known through itself, except perhaps common opinion, which besides being exposed to doubt, would set down probably things as the foundations of demonstrations"
+
+So Leibniz seems to think that all of mathematics can be analyzed and put into a logical form.  He says that Euclid's axioms can all be demonstrated from definitions and then proceeds to demonstrate Euclid's "Common Notions," or what Aristotle said was primary to all sciences.
+
+It is a wonder that Leibniz did not attempt to demonstrate the five postulates of Euclid.  But I'll leave this topic for later.
+
+
+Definitions
+___________
+Definitions, in the way that Leibniz uses the term, seems to be nothing more than label slapping of a name upon a concept or idea.  FOOTNOTE -- I'm intentionally using vague terms here because Kant and Leibniz both use different definitions for the word idea.  For Kant, all ideas come from concepts, which correspondingly come from intuitions.  As for Leibniz, an analysis of his definition of intuition shall follow--  I don't think this is out of accord with Leibniz.  he quotes Galileo to be the "restorer of philosophy" because he has "emphasized so many times...that [definitions] are arbitrary, and hence cannot be charged with falsity."
+
+If definitions were something more, they must be correcting two separate ideas, such as "Socrates is a man."  Here the two ideas, one being Socrates, the other Man, are clearly not Arbitrary.  If I analyze the concept of man down to its components and Socrates to his characteristics, I would find that the characteristics embody the necessary features of man.  If instead I had substituted a giraffe for Socrates, the process would clearly not work, for although a giraffe is living, mortal, etc., it is not rational.  Hence, definitions cannot be the connections between concepts or ideas if they are to be arbitrary.
+
+There is no doubt, though, that for Leibniz, definitions are merely signifies of concepts or ideas.  Leibniz is not just exploring some empty formal system of logic.  His conception seemed to be this:  that if one reduced all things to its components, one would make clear all structures between ideas, and one would never have the ability to wander into falsehood.
+
+Kant argued that all arithmetic equations were synthetic.  But Leibniz's argument may be cleared up by the following example:
+
+     1 =  1  (By the principle of Non-Contradiction)
+ 1 + 1 = "2" (That is, I name "two" the addition of a unity to itself)
+"2"+ 1 = "3" (I name "three" by "two" with the addition of unity)
+"3"+ 1 = "4" (I name "four" by "three" with the addition of unity)
+etc.
+
+Now, to address Kant, who used the example "5+7=12", be definition, "12" is equal to "11" plus unity.  "11" is equal "10" plus unity.  Hence "12" = "10" + unity + unity.  We can recur on all three numbers in the equation until we get a self identity, which would be 12 = 12 (if spelled out in units).  And this obviously must be true by identity.
+
+I suspect Kant may object to this because he would claim that analysis in mathematics can only occur after a synthetic act has taken place.  In the famous example he takes seven, looks at his hand, and starts counting on his fingers "8", "9", "10", "11", "12"!  But for Leibniz to take the first step, 7+1 = 8, he would say, "I have not created anything new at all!  I already have seven, and unity, and now all I'm doing is putting them together, and calling them a new thing, '8'.  And that is in fact how I got twelve in the first place!"
+
+But this brings us ton an interesting question.  How would Leibniz decide to move up the table incrementally?  What if, instead, the equation was "7+5=8+4"?  It is no where to be found on the table.  Leibniz would need to break down "8" as equal to "7" + 1, then move the 1, so that "5" = "4"+1, which he already has from the table.
+
+The decision to carry out this specific procedure as opposed to some other one, say, recurring on one of the numbers, or on all of the numbers, is what Kant is trying to explain.  The act of the intuition tells us this is the easiest move.  Reducing down 7, 5, 4, and 9 into dots or lines or "1's" etc. is all very tedious.  We take a short cut - just move one over.  But why do we do this as opposed to the reduction technique which we already have?  
+
+Ironically enough, Kant, the philosopher, seems to have a pretty good grasp on how a mathematician works, yet Leibniz embodies what Kant claims a philosopher is.  Kant seems to be explaining the "Eurika!" moment when creating a proof, but Leibniz is doing something different.  He seems to be assuring us of its certainty.  
+
+Leibniz's method has the ability to tackle something amazingly complex such as calculus, with very simple methods such as adding numbers or finding the ratio of a triangle.  But Leibniz doesn't seem to have a decision procedure simply by the table alone.  Granted, it may get him to all possible theorems, and do it much quicker than the one who must count on his fingers, but to solve a given problem, recurring on the numbers takes plenty of time.
+
+Both Leibniz and Kant use the addition of large numbers to support their respect theses.  In one sense, Kant seems to have a valid point.  With the numbers 572 and 302,674 we have no exact concepts of units, nor of the sum of the two, such as 303,246.  (I had to calculate that in the margin while I was writing this).  It just is not immediately obvious.  We don't count these on our fingers.  In fact, no amount of spacial intuition would ever give you such a large number.
+
+Leibniz, in his every day life, clearly does not recur on the table.  he uses the same method Kant and everyone else does when adding numbers.  Line the numbers up, and add each column.  My guess is that Leibniz would explain this procedure as a simplification of recurring on the tale.  The procedure is no act of spatial intuition; instead it is just a rule which must follow from the definitions that are present in the table.  
+
+Kant seems to be giving, if not a method, an explanation for how method occurs in mathematics.  Leibniz, on the other hand isn't so concerned with the philosophy of it all, nor even with the theorems he proves.  He just wants to share his methods.  Even if a thing has already been discovered, he would publish the paper anyway, simply to show the method!  If Leibniz could only find arithmetical equations by recurring on the table, and Kant had shown him this new method for adding numbers, he would have absolutely delighted, and would have praised Kant above all others.  He would then try to apply this method to all sorts of other things.  --FOOTNOTE-- "I remember Pascal revealing the same thing somewhere or another, where he recommends that we give varied enunciations of the same theorems and says that the whole study of geometers should consist in this." --
+
+Analysis and Spatial Intuition
+______________________________
+Kant appears to have a stronger footing in geometry than he does in arithmetic debate.  When distinguishing between the philosopher and the mathematician, Kant asks, "Which will use synthesis, and which will use analysis to solve a geometric problem (say, the angle sum of a triangle) among the philosopher and the mathematician?"  of course the philosopher will be the one to use analysis, since the philosopher is bound to fail in comparison to the mathematician.
+
+Give a philosopher the concepts of "angle," "straight," "triangle," and any other concepts contained in the proposition to solve and let him analyze all he desires.  He will never get to the angle sum.  The geometer is more skilled - he extends the base, creates a line parallel to one of the others, and finds the answer.
+
+How does Kant explain this result?  Through a synthetic act of the intuition.  The intuition of the geometer is a real seeing into things - one which is not exposing an already present truth.
+
+I wonder if Leibniz would argue with him.  For one, Leibniz might say that it would be unfair to give only the geometer the equality of angles in a transversal.  Kant would have a counter argument: The mathematician has already created such a proposition from his ability to synthesize in intuition.  The philosopher is wholly incapable of doing so.  But such an argument I will not consider because it is presuming what is proposed to be shown.
+
+If you are willing to grant that the philosopher has everything which leads up to this proof in Euclid, could he not just blindly start applying lines until the figure actually contained the extension of the base, and a line parallel to the appropriate side?  Would the philosopher not then obtain the answer?
+
+The argument is that the philosopher is really just groping in the dark - the geometrician does not have this problem.  Leibniz's method does not imply that a philosopher, given a math problem, will solve it easily or quickly, only that he will solve it eventually, and, in the mean time, solve hundreds of other very complicated theorems (say, invent calculus while doing so), which the geometer would struggle with for days, or even a lifetime.
+
+I suppose this argument of Leibniz wouldn't hold for Kant.  If analysis is just breaking down a thing into its component parts, all one is doing is showing the same things in different forms.  No new creation could occur - not even the creation of the straight line.
+
+Euclid's Postulates
+_____________________
+A topic which I had dropped previously in the paper now seems more fit to talk about in a general discussion of analysis in geometry.  If Leibniz truly believed that all truths could be reduced down to identities and definitions, why did he not set out to prove Euclid's Five Postulates?  The forth and the fifth seem to be especially strong for the argument of axiomatic spacial intuitions.  If he could prove these it would give a very__ strong case for all mathematics being analytic.
+
+I say a very strong case because I am aware of the developments since Leibniz and Kant.  What would Leibniz say to something such as Lobachevsky's geometry, a completely consistent geometrical system?  Could Leibniz solve this problem by saying the term 'straight' is an arbitrary one, which could potentially correspond to several different ideas?  yet how would he uphold the truth of both systems?  Or would he say truth is contingent on our definitions?  he explicitly denies this, and so we are back to the complex, axiomatic system which must be perceived through intuition - or, what the Greeks might call nous.
+
+It might sever us better to examine his qualifications for rigor, which I'm taking to be the same as certainty.
+
+"If we are going to be rigorous, if philosophy is to be perfected, we should accept no proposition unless it either agrees with imagination, that is, from an idea, or from a definition (which is what "idea" signifies)."
+
+--FOOTNOTE--This description sounds a lot like Hume's system.  First one has immediate sense perceptions.  All images are born out of these (imagination).  The combinations of these images create ideas.  And ideas mix and mingle with other ideas to form even more ideas.  One could run with this train of thought for a while  Obviously Hume must have studied this paper very carefully.  He even uses the same image of seeing a city from multiple perspectives!, but I am not going to here.--
+
+When analyzing the quote, we must wonder what's left to cause doubt in Leibniz's mind.  Sense observation is certain (which has always been disputed), definitions are completely arbitrary, so they are all valid, and could potentially have any subject matter in any domain, and finally, demonstrations occur from images!  This is all to be rigorous and to perfect philosophy!
+
+To address the first source of rigor, Leibniz limits the domain of perception to immediate perception.  I take this to mean immediate in a Cartesian sort of way - that is, one's own existence and the existence of one's thoughts.  Such things do not need to be proven, since they are immediately obvious.
+
+We have already given definitions their due attention, at least for now.  As for the last source of rigor, we must ask, what is meant by by a clear and distinct imagination?  Why equate this with an idea?  Further, what is the function of the second "or" in the clause?  Is it grouping definition, idea, and imagination, or is definition in its own class?
+
+To make matters more confusing and ambiguous, Leibniz qualifies a definition later on in the paper as what is signified by an idea; here he gives the opposite - that a definition is what an "idea" signifies [quotes are his].  I have no idea what this means, so I'm not quite sure how to proceed.  But one observation that can be made is that it is impossible to label something if the corresponding idea is changing.  If we lived in the world of Heraclitus, we would have no need for language.  This seems to fall into accord with what Leibniz has said of definitions and ideas.  "hence the theorems change as relations change, just as the same city changes its shape depending on which side we see it from."
+
+To address the question of what he means by a clear and distinct imagination, we must only look at the previous sentence:  "We have a distinct imagination when we distinguish a subject matter into parts by examining it and considering it through its circumstances."  In other words, we obtain a distinct image of a thing only during or after the process of analysis.
+
+Now it appears that we have ideas which are connect by either sense perception or distinct imagination.  Definitions serve as marks for those ideas, but one can only have distinct imagination, that is, see the connections between ideas, once one has carried out a thorough system of analysis.
+
+Leibniz's Method Applied to Diverse Domains
+___________________________________________
+"It seems no one would be more deserving in the whole realm of human reasoning than someone who could devise either a philosophical language or at least a writing to serve for rigorous investigations."
+
+To answer the unanswered question of the last section, I believe Leibniz wouldn't be feeling too uncomfortable with some of the developments in geometry since his time.  he would say that the ideas truly connect in such a way.  But it must be a least a little troubling for Leibniz that two (or three, or more!) geometries are out there which by definition contradict each other, and yet none of them are inconsistent.  If only the connections between ideas themselves (or the clear and distinct imagination) could be as arbitrary as the different languages spoken all over the world!
+
+But disregarding the modern developments, Leibniz's system seems like it has great potential in other fields.  All sciences are based on non-contradiction, and o if we can get a hold on the ideas and apply consistent, ordered labels, we should be able to carry out something like what goes on in algebra and arithmetic.  One may question how this method will work for say, physics.  Honestly I'm questioning it myself.  
+
+All of the power of the arithmetical system given above is that everything is defined before hand, and we can always change any definition into any other equivalent definition.  This is because all of the answers are there to begin with.  
+
+Physics seems to be another matter.  The ideas appear to come about only after experiment.  It is granted that Leibniz's method will clear up vague ideas, and potentially even show a theory to be incorrect if it is false.  If one could get to the fundamental particles, as we start with in arithmetic (1 = 1), then one could lay down the system just as the arithmetic one has been done.  But how would it generate new theories after an old one is lost? 
+
+I believe his method of physics would go something like this:  take every idea we have of matter, tack on definitions so that we can manipulate these things, and remember, a thing is equal to itself.  Feed these definitions (and the one self-equality) into a computer.  Let it compute for a while, and in a hundred or so odd years we will have all of the answers to every problem in physics.
+
+Leibniz wasn't around during the time of the computer, so his emphasis was not on building a giant super computer, but creating well ordered symbols which would be easy for us to manipulate.
+
+The power of his system is that one does not have to think of the underlying concepts involved in a proof, or even the conclusions of the proof.  What are we learning when we do things with this method [find theorems in science]? "Nothing, except how to think quickly and distinctly for practical purposes."
+
+For Leibniz, this method helped him invent the calculus, and more importantly, to come to something as general as the fundamental theorem.  I suspect that for Leibniz this theorem must be quite elegant, not only because of the great complexity which lies hidden in these two little symbols, but because it embodies the what he believed was at the heart of all science.  
+
+The fundamental theorem states that if one takes the sum of the differences of a series, one will get the series back.  What this essentially states is that if one performs an operation and the inverse of it on a thing, at the end of the process it will be the same as it was in the beginning.  To translate this into a general symbolic form (using edition), A + B - B = A, or, in the more  general form A = A.

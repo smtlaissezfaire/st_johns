@@ -1,0 +1,43 @@
+
+bacon: divisions: 
+philosophers who jump ahead to f.p's,
+way of investigating nature which investigates middle theorms
+vulgar: who use products of technology
+
+new divisions in antiquity: 
+not stepping ahead to f.p.'s from phenomena, i.e. faraday, newton
+division between physical and theoretical: modernity starts from sense perception, and there is a division.  reach the theoretical through sense perception.  but then why the division in newton?  is he going back to an older way?
+ptolemy, on the other hand, could not separate the sense perception from the theoretical.  for something to be perceived, if it had any regularity, it must also be not perceived.  how this works is a giant question.
+
+obsession with certainty (in modernity): this must arise from the idea that all comes from the senses (a fundamental assumption or at least starting point of all moderns).  those in antiquity who were concerned with certainty gave up the fight - thought it was useless - think of socrates cave., unability to transcend to first principles.
+
+in antiquity: things spoken of more certain, but never a casting off because of something being uncertain.
+
+
+
+
+note on socrates cave analogy & why he did not believe that we could be certain about anything: 
+why would he make an analogy to sense perception?  
+why wouldn't the people in the cave have some contradiction, e.g.: seeing a hand tightning the shackles.  does the unexamed life not lead to contradiction: think of man who holds "might makes right" as an unexamined principle, and then feels guilt.  such a man experiences a contradiction, and feels that he must examine his life to get rid of the guilt.  the problem with sense perception is that we can never transcend it, or know that we have fully transcended it.  How does the person seeing the sun not know that he isn't in an even greater cave?  one could sight the lack of contradictions, but this wasn't present originally in the cave: hence it appears by this analogy, and by socrates method in general that one will never obtain the first principles, and hence never be certain about anything.
+
+bacon, on the other hand, holds sense perception to be certain, and that one must work back from that for greater truth & certainty.  the anticipation of the mind aids the ability move backwards, i.e. to expiriment 
+
+
+
+newton's non-separation of forces, i.e. universal law of gravitation must exist in modernity.  why?  because certainty proceeds from moving backwards from phenomena.  no longer a separation between the physical & the non-physical, i.e. the corruptible and the heavenly.  where 
+
+for newton, certainty is goal from the start.  in preface:
+geometry as certain, but principles of geometry do not come from a priori knowledge, i.e. some intuitive knowledge of space, but from understanding mechanics.  uncertainty in rational mechanics is not because it is physical.  "not from the art, but from the practice of the art".  one who works with exactness is a more imperfect mechanic.  now degrees in physicality: one who is more exact is less prone to error.  it is true that one cannot be perfect in the physical (why must be a question), but if he could, he would be "the most perfect mechanic of all"
+
+with ptolemy & the ancients, the physicality was necessarily opposed to the theoretical.  hence, there must be some middle ground with mathematics.  physicality inverse proportion to theoretical, or true knowledge.  for newton, they are proportional.  the reason why no practical mechanic can be exact is not that the physical is opposed or a privation of the theoretical, but that nothing is alone in the practical.  e.g.: now when we investigate science, we always account for some little error by our tools, or some new factor which does not change the principle involved.  think of wind resistance w/ swinging pendulums, or slight derivations from newton's projected motions by inverse square law/kepler's law
+
+notice the need for certainty from the start by newton.  also notice is showing that the third law is certain (in the scholium to the laws) that he makes several mechanical, sense perception appeals: appeals not to rational mechanics, but to practical mechanics.  hence the modern structure is this:
+
+principle of perception=>practical mechanics=>rational, or certain mechanics, i.e. practical mechanics to the hight degress => geometry & laws of forces
+
+newton: "For the basical problem of [natural] philosophy seems to be to discoverthe forces of nature from the phenomena of motions and then to demonstrate the other phenomena from these forces"
+i.e. trying to acertain why phenomena occurs from other phenomena, not from theoretical principles!
+
+this makes sense of his division between absolute (space or time) & common/relative (space or time).  now it makes sense why absolute time referes to that actual physical object up in the sky, and not some theoretical one which we never see
+
+ancients: theoretical principles in contrast to physical, theoretical=>imperfect physical in varying degrees
