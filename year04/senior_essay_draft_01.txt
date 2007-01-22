@@ -13,4 +13,21 @@ So the student labors in vain to find the most conclusive absurdity, a contradic
 
 Finally the student is presented with a proof that if the Euclidean system is logically consistent, so must the non-Euclidean, and vise-versa.  At this he is astonished.  But he now knows better than to search for the answer in mathematics.  He must go higher than mathematics; he must go to philosophy.
 
-This short story is a small illustration...
+
+On To Philosophy - First Alternative
+So far we have followed the student directly; now we shall use his thought as a somewhat arbitrary spring-board to one particular philosopher, Immanuel Kant.  The decision to investigate Kant's philosophy is only a somewhat arbitrary decision, for Kant must be the philosopher who most directly appeals to the student, since he has proved the apodeictic certainty of Euclidean Geometry.   Although Kant's commentary on mathematics was finished long before the development of non-Euclidean geometry, we shall see that he has yet quite a bit to say on the student's dilema.
+
+The student has left off with the fact that the non-Euclidean system is not contradictory, but yet does not make any sense.  How can that curved line be straight?  Translating this into "Kant speak," Lobechevsky's geometry would be nothing but an empty logical system, corresponding to nothing real in the world.  The student yet does not have an intuition of the object which can be presented in sensation, and so cannot assert the object's true existence.
+
+Although all concepts at some point derive their origin from the intuition, there yet exists concepts for which no empirical sensation can be found.  Kant sights two examples: spirit (when thinking of the concept, one necessarily removes the concept of body), and God (which is completely beyond our understanding).  Further, we must consider a fact: starting from absurd premises may not necessarily lead to a manifest contradiction (A = ~A), but yet one's reasoning of the concepts gets more and more absurd until one must just give it up.  The ancients understood this and made a joke out of it.  By starting from an absurdity, one would reason to a man milking a he-goat, while another would use a sieve underneath to catch the milk.
+
+So this explanations seems like a good candiate for one that Kant may give to a non-Euclidean geometry.  But if we go back and observe the method of the philosopher and mathematician which Kant describes towards the end of The Critique of Pure Reason (source), the process of mathematics which Kant describes seems compatible to what is going on in our corresponding non-Euclidean geometry.  We must ask: "If these theorems were not created through the intuition, then through what faculty did they arise?  Could all of these constructions of lines be somehow some sort of empty logical symbol manipulation?"  No, they most definately seem synthetic.  They are not the chicanery of an idol philosopher analyzing mathematical objects.  And we must also ask: "How are these images at all possible?"
+
+
+Second Alternative
+So these questions lead us to another alternative.  Could it be possible that we have a priori intuitions of these objects with no corresponding sensible component?
+
+In one sense, we must observe that the only objects we really know the validity of are the objects presented to us through sensibility.  This fact does not rule the ability to have knowledge of physical phenomena from which our senses may be cut off.  Hence, our dull senses cannot directly perceive magnetism except through an intermediate faculty of empirical intuition (sight) which allows us to see the iron filings move.  Likewise, in Euclidean Geometry, we can always produce a triangle empirically conforming to our formal intuition.
+
+But it would be quite a strange thing if we only had a formal intuition which could not possibly correspond to an empirical one.  It was in fact by asking "What are the conditions of having sensible experience," that we first arived at the formal intuition (space and time).  We should take note: one is never directly sensible of our a priori intuitions, and in fact Kant claims that if mathematics were only applicable to the formal intuition, mathematics could not properly be called knowledge.  Kant clearly claims this for the following reason:  if the objects could only be exhibited formally, how could we every claim that they properly existed as real, phenomenal objects?
+
