@@ -2,13 +2,15 @@ Scott Taylor
 Senior Essay
 
 
-
         __TITLE__
 
 "Contrary to the opinion of Legendre, all other imperfections [of Euclidean Geometry]- for example, the definition of a straight line - show themselves foreign here and without any real influence."
 
-A Short Story on One Student's Encounter
+A Short Story on A Student's Encounter
+When the student initially encounters Lobechevsky, he is amazed and yet perplexed at this new world.  "Please extend those straight parallel lines," he requests.  Since Lobechevsky is no where to be found, the student himself extends the lines, only to find himself drawing one of them as curved.  How can he reconcile the fact that he had no choice in drawing the straight line as curved?  He knows sight is no mathematical proof, but yet the student feels the contradiction.  Contrary to Lobechevsky's claim, it appears that straightness has actually changed.
 
-When the student initially encounters Lobechevsky, he is amazed and yet perplexed at this new world.  "Please extend those straight parallel lines," he requests.  Since Lobechevsky is no where to be found, the student himself extends the lines, only to find himself drawing one of them as curved.  How can he reconcile the fact that he must draw this object as curved, and yet see it as straight?  He knows sight is no mathematical proof, but yet the student feels the contradiction.  Contrary to Lobechevsky's claim, it appears that straightness has actually changed.
+So the student labors in vain to find the most conclusive absurdity, a contradiction in terms (known in the mathematical world as a reductio ad absurdum) to disprove this non-sense once and for all.  "Obviously the straight line is what has changed; the contradiction _must_ be in it," the student thinks to himself.  And how does he labor, generating theorem after theorem, only to gain hope, and yet loose at finally finding the hidden trick which has been up Lobachevsky's sleeve the whole time.
 
-So the student labours in vain to find the most conclusive absurdity, a reductio ad absurdum to disprove this non-sense once and for all.  "Obviously the straight line is what has changed; the contradiction _must_ be in it," the student thinks to himself.  And how does labor, generating theorem after theorem, only to lose hope once and again
+Finally the student is presented with a proof that if the Euclidean system is logically consistent, so must the non-Euclidean, and vise-versa.  At this he is astonished.  But he now knows better than to search for the answer in mathematics.  He must go higher than mathematics; he must go to philosophy.
+
+This short story is a small illustration...
