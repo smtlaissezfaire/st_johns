@@ -15,8 +15,17 @@ xmlns="http://www.w3.org/2000/svg">
 <!-- for the right angles -->
 <line x1="110" y1="190" x2="120" y2="190" style="stroke:rgb(99,99,99); stroke-width:2"/>
 <line x1="120" y1="200" x2="120" y2="190" style="stroke:rgb(99,99,99); stroke-width:2"/>
+<line x1="190" y1="200" x2="190" y2="190" style="stroke:rgb(99,99,99); stroke-width:2"/>
+<line x1="200" y1="190" x2="190" y2="190" style="stroke:rgb(99,99,99); stroke-width:2"/>
 
-<text x="10" y="10" style="font-family:Verdana;font-size:24"> It's SVG!</text>
+
+<text x="90" y="110" class="letter">A</text>
+<text x="90" y="200" class="letter">B</text>
+<text x="210" y="200" class="letter">D</text>
+<text x="210" y=" 110" class="letter">E</text>
+<text x="150" y="110" class="letter">C</text>
+
+<text x="25" y="250" class="title">(1) Lobechevsky, Proposition 16</text>
 
 </svg>
 
