@@ -9,6 +9,8 @@ xmlns="http://www.w3.org/2000/svg">
 <line x1="25" y1="25" x2="25" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="150" y1="25" x2="150" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="25" y1="100" x2="150" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="87.5" y1="25" x2="87.5" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
+
 
 <!-- the right angles -->
 <line x1="25" y1="90" x2="35" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
@@ -16,6 +18,15 @@ xmlns="http://www.w3.org/2000/svg">
 
 <line x1="140" y1="90" x2="150" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="140" y1="100" x2="140" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
+
+<line x1="87.5" y1="90" x2="97.5" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="97.5" y1="100" x2="97.5" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
+
+<line x1="87.5" y1="35" x2="97.5" y2="35" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="97.5" y1="25" x2="97.5" y2="35" style="stroke:rgb(99,99,99);stroke-width:2"/>
+
+
+
 
 <!-- for the top line as "straight" -->
 <line x1="25" y1="25" x2="150" y2="25" style="stroke:rgb(99,99,99);stroke-width:2"/>
@@ -27,12 +38,16 @@ xmlns="http://www.w3.org/2000/svg">
 <text x="25" y="125">A</text>
 <text x="140" y="125">B</text>
 <text x="140" y="15">C</text>
+<text x="87.5" y="125">E</text>
+<text x="87.5" y="15">F</text>
 
 <!-- for the second diagram -->
 <text x="225" y="15">D</text>
 <text x="225" y="125">A</text>
 <text x="340" y="125">B</text>
 <text x="340" y="15">C</text>
+<text x="287.5" y="125">E</text>
+<text x="287.5" y="35">F</text>
 
 
 
@@ -45,6 +60,7 @@ xmlns="http://www.w3.org/2000/svg">
 <line x1="225" y1="100" x2="350" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="225" y1="100" x2="225" y2="25" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="350" y1="100" x2="350" y2="25" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="287.5" x2="287.5" y1="45" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
 
 <!-- the curve in here -->
 <path
@@ -62,8 +78,14 @@ xmlns="http://www.w3.org/2000/svg">
 <line x1="350" y1="90" x2="340" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="340" y1="100" x2="340" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
 
+<line x1="287.5" y1="55" x2="297.5" y2="55" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="297.5" y1="45" x2="297.5" y2="55" style="stroke:rgb(99,99,99);stroke-width:2"/>
 
-<text x="75" y="150" class="title">(2) The Saccheri Quadrilateral</text>
+<line x1="287.5" y1="90" x2="297.5" y2="90" style="stroke:rgb(99,99,99);stroke-width:2"/>
+<line x1="297.5" y1="90" x2="297.5" y2="100" style="stroke:rgb(99,99,99);stroke-width:2"/>
+
+
+<text x="75" y="160" class="title">(2) The Saccheri Quadrilateral</text>
 
 
 

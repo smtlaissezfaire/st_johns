@@ -25,8 +25,17 @@ xmlns="http://www.w3.org/2000/svg">
 <line x1="135" x2="135" y1="77.5" y2="87.5" style="stroke:rgb(99,99,99);stroke-width:2"/>
 <line x1="165" x2="165" y1="77.5" y2="87.5" style="stroke:rgb(99,99,99);stroke-width:2"/>
 
+
+<text x="5" y="87.5">A</text>
+<text x="15" y="15">B</text>
+<text x="65" y="15">C</text>
+<text x="115" y="15">D</text>
+<text x="165" y="15">E</text>
+
 <text x="30" y="175" class="title">(3) Perpendicular</text>
 <text x="15" y="205">Or "Ultra Parallel" Lines</text>
+
+
 
 </svg>
 
