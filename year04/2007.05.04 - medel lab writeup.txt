@@ -1,0 +1,79 @@
+Scott Taylor
+Ms. Paalman
+Senior Laboratory
+2007 April 04
+
+Mendel Lab Write-Up
+
+Preface and Procedure
+
+Three groups of seeds, labeled A-C, were given to three class groups.  These were planted in soil in a closed environment.  After a few weeks, the plants were all cross pollinated.  These seeds were harvested and then planted a second time.  On the second planting, some were planted in petri dishes, others in soil.
+
+From the start a few things were assumed.  The only characteristic we considered important was color.  This was manifested as either dark or light green and absence or presence of purple.  One of the main assumptions was that these traits were two, separable genotypic traits; another, that seed A was genotypically dominant, B recessive, and C, a hybrid of the two.                                                  
+
+We must assume the latter "assumption."  The only thinkable means of verifying the assumption is either through a very careful cross pollination (while assuming we are correct that the traits are independent), or finding some correlation between the seed pod color and the color of the sprouted plant.  Unfortunately, as will be seen later, we do not have data which would fulfill the criterion of "very careful" observation, nor do we sufficient experimental data for the seed colors.  Although it is true that each group did collect data for the seed colors, this information was not shared among the groups, and it is unclear which seed color each group began with.
+
+Unless such a correlation between seed color and plant phenotype can be established, we have no means for establishing the premises of the experiment.  It should be noted that the seed colors play no other role for us if this correlation does not exist.  The purpose of this laboratory is to either confirm or deny Mendel's genetic theory.  The seeds colors play no part in determining the validity of his theory.
+
+Despite the reasons given above, to progress in the inquiry we shall assume the previously noted "assumptions", remembering that they are just that.
+
+Data, Observation, and Analysis
+In observation we have no access to the phenotype at all except through observed characteristics (i.e. genotype).  For that reason we will list our predictions of phenotype based on the assumptions spoken of previously.
+
+(table 1)
+
+Our observations of the crosses were as follows:
+
+(table 2)
+
+Note that I have not differentiated between which group provided the egg and which provided the pollen.  Our expectations have no such data so we shall not consider it here.  Further, this combination should increase the likelihood of our expected results (if they are in fact true), since human error is more or less factored out through this combination.                                   
+
+A basic formula for the validity of this data is given by:
+            
+dark green + light green = purple + no purple (eq. 1)                                 
+
+Disturbing as it may be, a third of our expected crosses fail to satisfy this equation
+
+(table 3)
+
+As seen, BxC is the real abbhoration.  AxA is similar, as any data from it must be at least 20%-25% incorrect.  
+
+Now we shall compare the predictions with the observed data, discounting CxC.
+
+(table 4)
+
+The column "expected percentage error" is based on table two with equation one.  
+
+I'm proud to say I was part of group B, who managed the only successful cross which matched the predictions exactly.  All of the differences between the A crosses seem to fall close to expected error.  The same cannot be said for the CxC cross.
+
+Another note: Because of the ambiguity of the data given, it is impossible to know what exact phenotypes were observed from the previous table.  The table of the two processes separately will aid us here:
+
+(table 5)
+
+Adding these, we get:
+
+(table 6)
+
+Calculation of BxC's percentage error is quite complicated since four combinations of phenotypes were expected in equal proportions, but only three were received in quite unequal proportions.  If I were to attempt to perform a calculation, I would not do it justice, and so refrain from it here.
+
+Final Analysis
+
+What are we to conclude from this data?
+
+With the assumptions present, neglecting group C, and making the concession that the experiment has not been carried out with an extreme level of carefulness, we can say that it is probable that the results lend credence to Mendel's theory.
+
+What are the sources of error? 
+
+Several in number were they present in this experiment.  They are listed in no particular order:
+1. The group's data was not pooled efficiently.  Not all data was shared among groups.
+2. Duration of the experiment - The fact that the experiment was conducted over months, and not days, made it complex to track down data and make it accurate.  The data was spread out and inconsistent among the various teams as well as even among the various members of the same team.
+3. Possibility of accidental cross pollination.
+4. Small sample set - This may be the biggest factor of error
+5. Other miscellaneous human error, especially in counting and observing    
+
+With all of this in mind, our data is rendered rather useless, and does not seem to prove anything at all!
+
+We have also completely neglected other characteristics of the plant which may be vital to understanding the genetic makeup.  It is within the realm of possibility that other traits of which we have not even considered have some correlation to the presence or lack of presence of a certain color.  This trait could determine the presence of one, or even both colors.  Further, we have not discussed the possibility that these two traits could in fact be one, where the occurrence of the one is dependent on the some unknown environmental condition.
+
+Lastly, we should recognize that our very categories of trait determination is ambiguous.  What constitutes "light green" or "dark green?"  What constitutes "purple?"  These determinations are clearly subjective to some degree.  The least one could hope for is one common criterion (and better yet, one common judge) for the basis of these subjective judgments.  Unfortunately, no such criterion was met, as the number of experimenters was proportionally very large.
+
