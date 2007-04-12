@@ -1,0 +1,46 @@
+Scott Taylor
+Ms. Paalman
+Senior Laboratory
+2007 April 9
+
+Has Darwin Succeded in his Argument for Natural Selection and against the Immutability of Species?
+
+To determine the answer to the question, we must consider the following questions:
+
+1. How such a change can come about
+2. How useful complexity and not its opposite is originated in nature without purposeful intention (i.e. a Creator)
+3. What facts confirm the theory
+
+1. How One Species Can Become Another
+
+The very basis of Darwin's argument is that traits are acquired from the parents.  At some point along the line a new trait must arise from a modification in the sexual organs in one or both of the parents.  How this occurs, whether it occurs at random, and if so, why in most cases it should be profitable, are questions which DArwin does not answer.  If the modifications are in fact random, we must at some point devise a method to show how profitable the trait will be to any given future generation.  Needless to say, the degree of utility of a certain trait must be correlated to its usefulness in a given environment.  What may seem as abhorant (a "deformation") in one environment may in fact be profitable in another.
+
+2. How useful complexity can originate without purposeful intent
+The complexity spoken of includes everything which allows one species to survive and another to become extinct.  For Darwin this seems to embrace two categories: a) the material, and b) the instincts, of any of the species in question. 
+
+It is granted that the major analogy of the book is that man does something similar to what nature does in modifying species.  This act is one which does not in any way create new species; it is merely a negative act (one of selection) which limits the extent of certain species and varieties of species, while at the same time promoting the growth of others.  This act (domestication) on the part of man can be done either unconsciously or intentionally for his own purposes.
+
+Where nature may involve a multitude of factors prescribing a species extent, man is but a simplification of these factors into one.  Darwin saw the way man could favor certain varieties and concluded that nature must favor those species which were most adept at surviving the various conditions of Nature.
+
+This leads us back to the question of how change occurs in the first place.  Darwin's argument is that it occurs in very small increments.  This must be the case if an organism is composed of many genes which occasionally mutate randomly.  If the mutation is profitable to the species, it will slowly gain favor among them.  This is the mechanism by which one species transforms into another.
+
+The same argument that Darwin advances for material change (such as organ function, skin color, etc.) is applicable to the instincts.  The mathematically perfect hexagonal shape of a honeycomb is illustrated by Darwin in Chapter ??? is certainly a good argument proposed for the gradual change of instincts.
+
+3. Facts that Confirm the Theory
+
+This may be Darwin's weakest link in the argument.  If modification occurs in very gradual changes, one would expect this to be seen in the fossil record.  Since such gradual changes are only apparent in domestication, Darwin must argue that the fossil record is incredibly incomplete, even more so than most geologist believe.  His view on the subject can be seen best by the Geologist Lydell (sp?) who is quoted with the following:
+
+...QUOTE...
+
+Darwin's argument seems strong on this point - that we have very little accumulated data on the fossil record, and further, that complete data is nearly impossible.  This renders his theory as merely plausible.  According to Darwin, we will never find most of the fossil record, and so it shall sway us very little.  Instead we should examine the degree of mutation which is profitable to a species in a unit time.
+
+The number of factors involved in nature which determine whether a modification is profitable, and to what degree, are too numerous for us to count and seem to arise haphazardly.  Luckily, domestication is an abstraction for what occurs in nature.  Where in nature several hundreds of thousands of species must live concurrently in the same environment, in the laboratory we can deal with only one or two at a time.  Hence, we can use the laboratory as a simplified form of nature to determine how profitable a given modification should be in a simplified environment.  Each additional species added to the laboratory environment should give us a reasonable upper and lower bound for the amount of time for a new profitable trait to arise in a species in a given unit time.  
+
+This seems like one method which could be used to test the validity of Darwin's theory.  Unfortunately, it is quite oversimplified in a number of ways.  
+
+Firstly, the laboratory may in no way approximate nature.  This does not seem like a testable hypothesis, for what shall be our criterion for judging nature?  Put another way: how are we to measure the change in nature for comparison to the change in our laboratory?  This is in fact the reason the laboratory was created to begin with.  A larger problem stands, though.  What happens if we get inconsistent results in our experiments?  What if, with one species, rapid favorable mutation occurs at certain times but not at others?  Can we compare different species with regards to mutation rates?  Once we introduce two species which interact, and we see a mutation in the one, how much of the interaction should be accountable for the mutation?  And further, we are immediately confined to using rapidly modifying species.  It may be the case that species which live for several hundreds of years are completely different in their modification rates than those which create offspring every few minutes.
+
+The second major simplification: Genetics should give us a ratio of new profitable trait(s) to time elapsed.  What is "profitable" is up for grabs.  Are there degrees of profitability, or should new traits be ranked in one of three categories ("profitable," "harmful," "neutral")?  Can we even determine what would be considered a "profitable" mutation in nature, since it has almost no meaning in the lab?  Will genetics only obscure this mission by making the aforementioned formula an impossibility - resulting in an incredible complexity while obscuring any insight?
+
+These, and many further questions must be answered to give a faithful account of the validity of Darwin's argument.
+                                       
