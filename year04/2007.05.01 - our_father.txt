@@ -1,14 +1,20 @@
+Scott Taylor
+Ms. Flaumenhauft
+Senior Language
+1 May 2007
 
-[Introduction]
+The Lord's Prayer
 
-Before we begin the analysis, we should spend a moment on the setting in which the original prayer was given.  It's author, as is well known, is Jesus.  The prayer is given in two gospels: Matthew 7 and Luke 11.  The context in which it is given differs: In Matthew, it directly follows after Jesus preaches the Beatitudes, which was probably the first time that he had gathered a large following. In Luke...  Our analysis will primarily engage in the context in which the words were spoken of in Matthew.  Granted, a further analysis of both contexts together would yield a more abundant harvest and a set of ideas closer to the truth on the meaning of the Lord's Prayer. 
+The Prayer is probably one of the most famous sayings in Western Culture, spoken by millions every week.  I will not go on with it's historical significance, except for some trivialities.  My interest in it is that for some years I had spoken it every week without ever significantly analyzing it or the context in which it was originally spoken.  I suppose the last paper here at St. John's should be a self-reflective one.  So we shall undertake an analysis of the prayer.
 
-Now we shall partake in a line-by-line analysis of the paper.
+Before we begin the analysis, we should spend a moment on the setting in which the original prayer was given.  It's author, as is well known, is Jesus.  The prayer is given in two gospels: Matthew 7 and Luke 11.  The context differs: In Matthew, it directly follows after Jesus preaches the Beatitudes, which was probably the first time that he had gathered a large following. In Luke, the situation is otherwise, and very little information on the actual context is given.  
+
+Our analysis will primarily engage in the context in which the words were spoken of in The Gospel of Matthew.  Granted, a further analysis of both contexts together would yield a more abundant harvest and a set of ideas closer to the truth on the meaning of the Lord's Prayer.   Now we shall partake in a line-by-line analysis.
 
 "Our Father"
 The "Our Father" is often a synonymn for the Lord's Prayer, especially in the Catholic Church.  Because it the only prayer which Jesus directly gives the desciples and is in the Gospels, it serves as the unifying prayer among all Christians.  Many today see the prayer as one of the most fundamental among all demoninations and branches of the various churches.
 
-The fact that the prayer starts in this manner - with a plural possesive - seems to be hinting at two things.  What has already been mentioned is that this is the unifying prayer among all Christians.  It should be noted that Jesus is talking to two groups in Matthew - the Pharasees and the Gentiles.  At first glance, it may appear that since the words is "Our" and not "The" Father, Jesus is primarily talking to Jews.  But in fact when considering to whom he is speaking, we must conclude that Jesus is stating the universality of God's domain, not just over the Jews, but over all all men. In Matthew 7.24, he claims "_No one_ can serve two masters."  As we will see, much of Jesus' words in the next two chapters of Luke can be considered an explication, or a drawing out, of the Lord's prayer.  This is my fundamental assumption in the analysis of the work.
+The fact that the prayer starts in this manner - with a plural first person - seems to be hinting at two things.  What has already been mentioned is that this is the unifying prayer among all Christians.  It should be noted that Jesus is talking to two groups in Matthew - the Pharasees and the Gentiles.  At first glance, it may appear that since the word is "Our" and not "The" Father, Jesus is primarily talking to Jews.  But in fact when considering to whom he is speaking, we must conclude that Jesus is stating the universality of God's domain, not just over the Jews, but over all all men. In Matthew 7.24, he claims "_No one_ can serve two masters."  As we will see, much of Jesus' words in the next two chapters of Luke can be considered an explication, or a drawing out, of the Lord's prayer.  This is my fundamental assumption in the analysis of the work.
 
 The second most obvious way that the phrase "Our Father" can be interpreted is by examining who is in fact speaking it.  Although Jesus is relatively unknown at this point, one could take the phrase to be an assertion of his manhood in contrast to his Godhood.  As we shall see, the separation between Man and God is a theme present throughout all of the prayer, and will be especially emphesized in a few lines.
 
@@ -58,7 +64,17 @@ To shift gears for a moment, we will ask another question on the phrasing and st
 
 Our temporary working thesis may be that we are not being so presumptious or unholy in these matters as we originally suspected.  An imperative can, in some sense, also be a plea.  This would especially be in accord with a more modern way of praying which we often see portrayed in media.  "God, please give me such and such...," or so the formulation often goes.  But this line of questioning should lead us to something deeper - namely, the _meaning of prayer_.  This question should not have appeared to come up haphazardly - for we have already stated that the Lord's Prayer is a model for all prayers, and so this must naturally produce in us the questions, "What makes this prayer better than others?", "How is this one a model for all others?", "What act are we engaging in when we pray?", and finally, "What is the meaning of prayer?"
 
+Once again, we will shift back to our first question on this section of the prayer, which originally we were unable to perform because of certain natural limitations.  That question was, "Which word should we use in the Lord's Prayer - 'debt' or 'trespass'?"
 
-         
+We have now spoken many times about the Gentiles and the Jews, but this distinction once again seems to pertain.  If we look to Jesus' reproaches of the Gentiles, then we must favor the double meaning involved with the word "debt", as it has not only the connotation of "debt" to one's fellow man, but "debt" in the monetary sense.  But if we instead look to the Pharasees, the term "trespass" seems to be a better rendering of the phrase, having a connotation of law.
+
+Although there is probably a treasure to find in the former interpretation (no pun intended), we will arbitrarily follow the latter.  Jesus has many things to say about the law.  In Matthew 5 he has shown that the spirit of the law, and not the letter of it, is the essence of the law.  But he has also said, "Think not that I have come to abolish the law and the prophets."
+
+This should get us back on track, clearing up the question of what, exactly, is the purpose of prayer, and how this is the model of all prayers.  The lines "Ask, and it will be given you; seek, and you will find; knock, and it will be open to you," at first seem to be addressing the Gentile fixation on material.  This was, in a way, our working thesis - that prayer is a begging for God to give such and such a thing.  This, though seems unlikely, for Jesus says, "Your Father knows what you need before you ask him."  If our prayer is, or should be, for this or that material thing, it appears as though it is a futile act.  
+
+In opposition to the material claim, we should look at how Jesus ends this section which begins with "asking."  To quote directly:  "So whatever you wish that men would do to you, do so to them; for _this is the law_ and the prophets."  The Lord's Prayer goes somewhat differently: "And [God] Forgive us, As we have also forgiven..."  But the meaning of prayer and use of the imperatives now should lay bare before us.  These imparatives _are_ a plea to God, but not for material things - rather for our will to be exercised in the spirit of the law, which is God's will.  "Thy will be done."
+
+  
+"And lead us not into temptation, but deliver us from evil.  [For thine is the kingdom and the power and the glory, for ever, Amen]"
 
   
